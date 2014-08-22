@@ -13,8 +13,8 @@ npm install bower &&
 npm update &&
 bower --allow-root install &&
 bower --allow-root update &&
-grunt init
-grunt prod
+grunt init --force
+grunt prod --forcea
 EOF
 )
 
